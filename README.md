@@ -53,17 +53,14 @@ To set up the frontend service locally, follow these steps:
 
 ## Usage
 
-Upon accessing the frontend service, IGNOU students can navigate through the interface to view their Term End Examination results. Toastify provides notification messages for important actions and updates.
+Through a user-friendly form, students provide their name, email, enrollment number, and program code, securely stored in our backend database, Once registered, our backend periodically checks IGNOU's website for result updates. Upon detecting updates, registered students receive notifications via email.
 
 ## Dependencies
 
 - **React.js**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for styling the user interface.
 - **Toastify**: React library for displaying notification messages.
-
-## Configuration
-Through a user-friendly form, students provide their name, email, enrollment number, and program code, securely stored in our backend database, Once registered, our backend periodically checks IGNOU's website for result updates. Upon detecting updates, registered students receive notifications via email.
-
+- 
 ## Contributing
 
 Contributions to enhance the frontend service are welcome! Please fork the repository, make necessary modifications, and submit a pull request.
