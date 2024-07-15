@@ -71,7 +71,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or support, please contact [kunalrajput7656@gmail.com].
+For inquiries or support, please contact [Kunal Rajput](mailto:kunalrajput7656@gmail.com).
 
 ---
 © 2024 IGNOU Term End Examination Result Frontend Service. Developed by [kunal rajput].
